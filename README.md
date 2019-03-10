@@ -1,2 +1,2 @@
 # hello-world
-first repository
+first repository for PP workshop
